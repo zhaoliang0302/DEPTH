@@ -1,7 +1,7 @@
 # DEPTH
 DEPTH evaluates the tumor heterogeneity level of each tumor sample based on gene expression profiles Heterogeneity score vignette
 
-Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3968541.svg)](https://doi.org/10.5281/zenodo.3968541)
+Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4094813.svg)](https://doi.org/10.5281/zenodo.3968541)
 
 # DEPTH
 
