@@ -90,5 +90,6 @@ DEPTH(exp, match)
 
 
 Citation
+
 Li, M., Zhang, Z., Li, L. et al. An algorithm to quantify intratumor heterogeneity based on alterations of gene expression profiles. Commun Biol 3, 505 (2020). https://doi.org/10.1038/s42003-020-01230-7
 
