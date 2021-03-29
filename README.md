@@ -84,6 +84,9 @@ devtools::install_github("WangX-Lab/DEPTH/DEPTH")
 ## Examples
 
 ```  
+exp=read.csv("DEPTH/exp.csv",header=F)
+match=read.csv("DEPTH/match.csv")
+
 library(DEPTH)
 DEPTH(exp, match) 
 ```
